@@ -24,7 +24,7 @@
   - الوصف.
   - أسماء أعضاء الفريق وحساباتهم على Github.
   - تصميم للموقع بإستخدام فيقما
-  - رابط النشر([Vercel-deployments](https://github.com/Tuwaiq-Academy-Training/Vercel-deployments)
+  - رابط النشر([netlify-deployments]([https://github.com/Tuwaiq-Academy-Training/Vercel-deployments](https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/))
 ).
   - صور/لقطات شاشة للمشروع.
 - قم ببناء واجهة المستخدم الأمامية (Front-End) للمشروع.
